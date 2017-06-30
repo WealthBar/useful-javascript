@@ -1,0 +1,25 @@
+{
+  "name": "useful-javascript",
+  "version": "1.0.0",
+  "description": "Examples and tools for creating useful javascript objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape src/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WealthBar/useful-javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "architecture",
+    "SOLID",
+    "useful"
+  ],
+  "author": "Chris Nicola <chris.nicola@wealthbar.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WealthBar/useful-javascript/issues"
+  },
+  "homepage": "https://github.com/WealthBar/useful-javascript#readme"
+}
